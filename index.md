@@ -1,6 +1,5 @@
 ## Welcome to VUR
 
-VUR
 # Void User Repository
 Renamed from nvoid
 
